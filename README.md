@@ -33,8 +33,9 @@ A Flutter Grocery App UI with two main screens: Home screen showing popular item
 ## Getting Started
 
 1. Clone the repository
-2. Run `flutter pub get` to install dependencies
-3. Run `flutter run` to start the app
+2. Run `flutter create .`
+3. Run `flutter pub get` to install dependencies
+4. Run `flutter run` to start the app
 
 ## Dependencies
 
