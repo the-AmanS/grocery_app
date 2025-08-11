@@ -47,3 +47,7 @@ web/
 # Generated files
 *.lock
 pubspec.lock
+
+.metadata
+test/
+analysis_options.yaml
